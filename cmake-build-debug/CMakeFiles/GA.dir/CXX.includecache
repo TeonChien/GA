@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/C++/GA/GA.cpp
+string
+-
+fstream
+-
+sstream
+-
+vector
+-
+iostream
+-
+iomanip
+-
+stdlib.h
+-
+
